@@ -1,0 +1,99 @@
+[
+	{
+		"id": 1,
+		"nombre": "Matemática",
+		"img": "https://img.freepik.com/vector-premium/matematicas_23-2148178218.jpg?w=2000",
+		"grado": " primero",
+		"descripcion": "Aprende matemática de una forma dinámica y divertida que recordarás para siempre",
+		"precio": 1000
+	},
+	{
+		"id": 2,
+		"nombre": "Lengua",
+		"grado": "segundo",
+		"img": "https://img.freepik.com/vector-gratis/nina-haciendo-tarea-libros-sobre-fondo-blanco_1308-104637.jpg?w=740&",
+		"descripcion": "Aprende el maravilloso arte del lenguaje y todas sus utilidades",
+		"precio": 1200
+	},
+	{
+		"id": 3,
+		"nombre": "Ciencias sociales",
+		"grado": "primero",
+		"img": "https://img.freepik.com/vector-gratis/gente-trabajo-equipo-piezas-rompecabezas_24877-54950.jpg?w=740&",
+		"descripcion": "Descubrí todo lo que podés aprender sobre nuestro territorio y organización del territorio",
+		"precio": 1400
+	},
+	{
+		"id": 4,
+		"nombre": "Ciencias naturales",
+		"grado": "tercero",
+		"img": "https://img.freepik.com/vector-gratis/fondo-educacion-cientifica-dibujado-mano_23-2148499325.jpg?w=740",
+		"descripcion": "Aprendé experimentando",
+		"precio": 1600
+	},
+	{
+		"id": 5,
+		"nombre": "Historia",
+		"grado": "cuarto",
+		"img": "https://img.freepik.com/vector-gratis/dibujado-mano-ilustracion-dia-patrimonio-mundial_23-2149312521.jpg?w=740",
+		"descripcion": "Hace un recorrido por nuestra historia y descubrí nuestros origenes ",
+		"precio": 1800
+	},
+
+	{
+		"id": 6,
+		"nombre": "Geografia",
+		"grado": "quinto",
+		"img": "https://img.freepik.com/vector-gratis/ilustracion-mapa-ninos-dibujados-mano_23-2149562332.jpg?w=740",
+		"descripcion": "Aprendé todo sobre territorios nacionales e internacionales a través de juegos",
+		"precio": 2000
+	},
+	{
+		"id": 7,
+		"nombre": "Bellas artes ",
+		"grado": "todos",
+		"img": "https://img.freepik.com/vector-gratis/diseno-cuadros-ninos-haciendo-obras-arte_1308-70990.jpg?w=740",
+		"descripcion": "Desarrolla tus habilidades y percepción y dejá volar tu imaginación",
+		"precio": 2000
+	},
+	{
+		"id": 8,
+		"nombre": "Música",
+		"grado": "segundo",
+		"img": "https://img.freepik.com/vector-gratis/doodle-ninos-instrumento-musical-melodia_1308-108012.jpg?w=740",
+		"descripcion": "Conocé y práctica el uso de diferentes instrumentos y desarrolla tu voz",
+		"precio": 2000
+	},
+	{
+		"id": 9,
+		"nombre": "Ajedrez",
+		"grado": "todos",
+		"img": "https://img.freepik.com/vector-gratis/ninos-jugando-tablero-ajedrez-aula_1308-117073.jpg?w=900",
+		"descripcion": "Desplegá tu inteligencia y talento en estrategias de juego",
+		"precio": 2000
+	},
+	{
+		"id": 10,
+		"nombre": "Programación",
+		"grado": "todos",
+		"img": "https://img.freepik.com/vector-gratis/ilustracion-concepto-abstracto-campamento-programacion-informatica_335657-3921.jpg?w=740",
+		"descripcion": "Conocé y práctica la carrera del futuro",
+		"precio": 2000
+	},
+	{
+		"id": 11,
+		"nombre": "Taller literario",
+		"grado": "tercero",
+		"img": "https://img.freepik.com/vector-gratis/pegatinas-libros-deslumbrantes_23-2149587241.jpg?w=740",
+		"descripcion": "Sumergite en el maravillos mundo de la literatura",
+		"precio": 2000
+	},
+	{
+		"id": 12,
+		"nombre": "Yoga",
+		"img": "https://img.freepik.com/vector-gratis/actividades-yoga-ninos_1308-32100.jpg?w=740",
+		"grado": "tercero",
+		"descripcion": "Probá y disfruta desde pequeño sus beneficios",
+		"precio": 2000
+	}
+]

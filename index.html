@@ -1,0 +1,50 @@
+<html>
+	<head>
+		<meta charset="utf-8" />
+
+		<link
+			href="https://unpkg.com/boxicons@2.1.4/css/boxicons.min.css"
+			rel="stylesheet"
+		/>
+		<link rel="stylesheet" href="sweetalert2.min.css" />
+		<link rel="stylesheet" href="./styles/styles.css" />
+		<title>Montesorri School</title>
+	</head>
+	<body>
+		<header class="header">
+			<div class="container">
+				<a href="./index.html">
+					<h1 class="logo">Montesorri School</h1>
+				</a>
+				<nav class="nav">
+					<ul class="nav__list"></ul>
+					<div id="total"></div>
+					<a href="#" class="btn-primary" id="btn-finalizar"
+						>Finalizar Compra</a
+					>
+				</nav>
+				<div class="bars__menu">
+					<i class="bx bxs-cart"></i><span id="countCarrito"></span>
+				</div>
+			</div>
+		</header>
+
+		<main class="home__hero">
+			<div class="container">
+				<h2>Materias</h2>
+				<div class="categorias">
+					<a href="#" id="primerGrado">Primero</a>
+					<a href="#" id="segundoGrado">Segundo</a>
+					<a href="#" id="tercerGrado">Tercero</a>
+					<a href="#" id="cuartoGrado">Cuarto</a>
+					<a href="#" id="quintoGrado">Quinto</a>
+				</div>
+				<div class="materias__container"></div>
+			</div>
+		</main>
+
+		<script src="./javascript/menu.js"></script>
+		<script type="text/javascript" src="./javascript/app.js" async></script>
+		<script src="https://unpkg.com/sweetalert/dist/sweetalert.min.js"></script>
+	</body>
+</html>
